@@ -1,0 +1,17 @@
+.hole{
+	width: 250px;
+	height: 200px;
+	background-image: url('dirt.svg');
+	background-size: 100% 100%;
+	margin-top: 200px;
+	margin-left: 10px;
+}
+.flex{
+	display: flex
+}
+.mole{
+	position: absolute;
+	width: 150px;
+	z-index: 1;
+
+}
